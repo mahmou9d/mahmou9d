@@ -34,18 +34,19 @@
 ## 🚀 Projects  
 | Project | Demo | Code |
 |---------|------|------|
-| 🛍️ E-Commerce Store | [Live Demo](https://ecommerce-demo.vercel.app) | [Repo](https://github.com/mahmou9d/vegecommerce) |
-| 📊 Dashboard App | [Live Demo](https://dashboard-demo.vercel.app) | [Repo](https://github.com/mahmou9d/dashboard) |
-| 🎨 Portfolio Website | [Live Demo](https://mahmoud-portfolio.vercel.app) | [Repo](https://github.com/mahmou9d/profile) |
-| 📝 CRUD App | [Live Demo](https://crud-demo.vercel.app) | [Repo](https://github.com/mahmou9d/curd) |
-| 🛍️ E-Commerce Store | [Live Demo](https://food-delivery-demo.vercel.app) | [Repo](https://github.com/mahmou9d/super-store) |
-| 🛍️ E-Commerce Store | [Live Demo](https://food-delivery-demo.vercel.app) | [Repo](https://github.com/mahmou9d/advancedE-commerce) |
-|  Loading Page | [Live Demo](https://food-delivery-demo.vercel.app) | [Repo](https://github.com/mahmou9d/React_Scss) |
-|  To-do-List | [Live Demo](https://food-delivery-demo.vercel.app) | [Repo](https://github.com/mahmou9d/todolist-advanced) |
-|  Loading Page | [Live Demo](https://food-delivery-demo.vercel.app) | [Repo](https://github.com/mahmou9d/NextProfile) |
-|  weather | [Live Demo](https://food-delivery-demo.vercel.app) | [Repo](https://github.com/mahmou9d/weather) |
-|  E-Commerce Store | [Live Demo](https://food-delivery-demo.vercel.app) | [Repo](https://github.com/mahmou9d/ecoo) |
-|  Loading Page | [Live Demo](https://food-delivery-demo.vercel.app) | [Repo](https://github.com/mahmou9d/React-Tailwind) |
+| 🛍️ Super Store (E-Commerce) | [Live Demo](https://poetic-truffle-8702f4.netlify.app) | [Repo](https://github.com/mahmou9d/super-store) |
+| 🛍️ Advanced E-Commerce | [Live Demo](https://guileless-tiramisu-18d615.netlify.app) | [Repo](https://github.com/mahmou9d/advancedE-commerce) |
+| 🛍️ E-Commerce Store (Basic) | [Live Demo](https://ecommerce-demo.vercel.app) | [Repo](https://github.com/mahmou9d/vegecommerce) |
+| 🛍️ Ecoo Shop | [Live Demo](https://guileless-donut-c16f52.netlify.app) | [Repo](https://github.com/mahmou9d/ecoo) |
+| 🛍️ Ecommerces | [Live Demo](https://benevolent-beignet-116c19.netlify.app) | [Repo](https://github.com/mahmou9d/ecommerces) |
+| 📊 Dashboard App | [Live Demo](https://statuesque-conkies-a26f3f.netlify.app) | [Repo](https://github.com/mahmou9d/dashboard) |
+| 🎨 Portfolio Website | [Live Demo](https://radiant-fenglisu-f4a6c2.netlify.app) | [Repo](https://github.com/mahmou9d/profile) |
+| 📝 CRUD App | [Live Demo](https://curd-ashen.vercel.app) | [Repo](https://github.com/mahmou9d/curd) |
+| ✅ To-do List (Advanced) | [Live Demo](https://list-advanced.web.app) | [Repo](https://github.com/mahmou9d/todolist-advanced) |
+| 🌦️ Weather App | [Live Demo](https://peaceful-pothos-2d7a29.netlify.app) | [Repo](https://github.com/mahmou9d/weather) |
+| ⏳ Loading Page (React + SCSS) | [Live Demo](https://timely-florentine-bb449e.netlify.app) | [Repo](https://github.com/mahmou9d/React_Scss) |
+| ⏳ Loading Page (Next.js) | [Live Demo](https://famous-swan-6e1bb4.netlify.app) | [Repo](https://github.com/mahmou9d/NextProfile) |
+| ⏳ Loading Page (TailwindCSS) | [Live Demo](https://glittery-sorbet-68bdc4.netlify.app) | [Repo](https://github.com/mahmou9d/React-Tailwind) |
 
 
 
