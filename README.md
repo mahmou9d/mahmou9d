@@ -34,13 +34,15 @@
 ## 🚀 Projects  
 | Project | Demo | Code |
 |---------|------|------|
+| 🛍️ XtraMarket | [Live Demo](https://vegecommerce-ct1s.vercel.app) | [Repo](https://github.com/mahmou9d/vegecommerce) |
+| 🛍️ CarePlus Clinic | [Live Demo](https://patient-pi.vercel.app) | [Repo](https://github.com/mahmou9d/Patient) |
+| 🛍️ Advanced E-Commerce | [Live Demo](https://prime-ecommerce-rho.vercel.app) | [Repo](https://github.com/mahmou9d/advancedE-commerce) |
 | 🛍️ Super Store (E-Commerce) | [Live Demo](https://poetic-truffle-8702f4.netlify.app) | [Repo](https://github.com/mahmou9d/super-store) |
-| 🛍️ Advanced E-Commerce | [Live Demo](https://guileless-tiramisu-18d615.netlify.app) | [Repo](https://github.com/mahmou9d/advancedE-commerce) |
 | 🛍️ E-Commerce Store (Basic) | [Live Demo](https://ecommerce-demo.vercel.app) | [Repo](https://github.com/mahmou9d/vegecommerce) |
 | 🛍️ Ecoo Shop | [Live Demo](https://guileless-donut-c16f52.netlify.app) | [Repo](https://github.com/mahmou9d/ecoo) |
 | 🛍️ Ecommerces | [Live Demo](https://benevolent-beignet-116c19.netlify.app) | [Repo](https://github.com/mahmou9d/ecommerces) |
 | 📊 Dashboard App | [Live Demo](https://statuesque-conkies-a26f3f.netlify.app) | [Repo](https://github.com/mahmou9d/dashboard) |
-| 🎨 Portfolio Website | [Live Demo](https://radiant-fenglisu-f4a6c2.netlify.app) | [Repo](https://github.com/mahmou9d/profile) |
+| 🎨 Portfolio Website | [Live Demo](https://profile-ipz4.vercel.app) | [Repo](https://github.com/mahmou9d/profile) |
 | 📝 CRUD App | [Live Demo](https://curd-ashen.vercel.app) | [Repo](https://github.com/mahmou9d/curd) |
 | ✅ To-do List (Advanced) | [Live Demo](https://list-advanced.web.app) | [Repo](https://github.com/mahmou9d/todolist-advanced) |
 | 🌦️ Weather App | [Live Demo](https://peaceful-pothos-2d7a29.netlify.app) | [Repo](https://github.com/mahmou9d/weather) |
