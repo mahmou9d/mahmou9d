@@ -15,19 +15,23 @@
 
 ### 🛠️ Tech Stack
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img alt="Redux Toolkit" src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img alt="Git & GitHub" src="https://img.shields.io/badge/-Git%20%26%20GitHub-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
+  <img alt="Redux Toolkit" src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+  <img alt="React Hook Form" src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white" />
+  <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white" />
   <img alt="Shadcn" src="https://img.shields.io/badge/-Shadcn-000000?style=flat&logo=shadcnui&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
 
 ---
 
